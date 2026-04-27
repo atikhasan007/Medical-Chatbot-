@@ -61,7 +61,7 @@ This chatbot retrieves relevant medical information from a document database and
 Clone the repository
 
 ```bash
-Project repo: https://github.com/atikhasan007/Medical-Chatbot-.git](https://github.com/atikhasan007/Rag_based_Medical-Chatbot.git
+Project repo: git clone https://github.com/atikhasan007/Rag_based_MedicaChatbot.git
 
 ```
 
